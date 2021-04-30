@@ -1,6 +1,6 @@
 # function-approximators
 
-Interactive visualization of function approximation through artificial neural
+Interactive visualization of function approximation with artificial neural
 networks.
 
 ## Table of Contents
